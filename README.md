@@ -48,7 +48,7 @@ bharat-suraksha/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/MLMManikanta/bharat-suraksha.git
+   git clone https://github.com/MLMManikanta/BharatSuraksha.git
    cd bharat-suraksha
    ```
 
